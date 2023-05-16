@@ -10,7 +10,7 @@ setup(
     license='BSD 2-clause',
     packages=[],
     install_requires=[
-        'torch', 'numpy', 'pytorch'
+        'torch', 'numpy'
     ],
     classifiers=[]
 )
